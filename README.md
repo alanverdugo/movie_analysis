@@ -19,7 +19,9 @@ Using the [IMDB.com](http://www.imdb.com/) dataset, I analyzed 45,844 movies and
 
 I grouped the movies by launch year and calculated the average rating for the movies launched in every year. Doing this, I wanted to get an idea of the overall quality of the movies trough time.
 
-While the technical aspect of motion pictures have obviously advanced thanks to new technology, it was not clear if this also improved the overall quality of the movie. In the next slide I present a chart of the relation between launch year and average rating for the movies launched in each year.
+While the technical aspect of motion pictures have obviously advanced thanks to new technology, it was not clear if this also improved the overall quality of the movie. In the next image I present a chart of the relation between launch year and average rating for the movies launched in each year.
+
+![alt text]( https://github.com/alanverdugo/movies_analysis/blob/master/movie_average_per_year.png?raw=true "Movies average rating per year")
 
 Some interesting facts I got from this analysis:
 
